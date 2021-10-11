@@ -1,5 +1,5 @@
 # Instagram Fake Account Detection Project
-This project aim is to build and train a deep neural network model to detect fake or spam instagram accounts.
+The aim of this project is to build and train a deep neural network model to detect fake or spam instagram accounts.
 
 **<H3 align:right>FAKE INSTAGRAM ACOUNT DETECTOR</H3>** 
 
