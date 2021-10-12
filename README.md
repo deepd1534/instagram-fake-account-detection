@@ -40,9 +40,9 @@ This model is trained such that it considers the above given features and determ
 
 This is an executable [*Jupyter notebook*](https://jupyter.org) You can run and experiment with the code in a couple of ways: *using free online resources* (recommended) or *on your own computer*.
 
-#### Option 1: Running using free online resources (1-click, recommended)
-
-The easiest way to start executing this notebook is to click the "Run" button at the top of this page, and select "Run on Binder". This will run the notebook on [mybinder.org](https://mybinder.org), a free online service for running Jupyter notebooks. You can also select "Run on Colab" or "Run on Kaggle".
+#### Option 1: Running using free online resources using Google Colab or on Binder
+  colab.research.google.com
+  https://mybinder.org/
 
 #### Option 2: Running on your computer locally
 
