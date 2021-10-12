@@ -66,7 +66,7 @@ Check out the following resources to learn more about the tools and libraries us
 
 * Tensorflow user guide : https://www.tensorflow.org/guide
 
-* Tenorflow Playground : https://playground.tensorflow.org
+* Tensorflow Playground : https://playground.tensorflow.org
 
 * Neural Networks : https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464
 
