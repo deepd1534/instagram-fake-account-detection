@@ -41,7 +41,6 @@ This model is trained such that it considers the above given features and determ
 This is an executable [*Jupyter notebook*](https://jupyter.org) You can run and experiment with the code in a couple of ways: *using free online resources* (recommended) or *on your own computer*.
 
 #### Option 1: Running using free online resources using Google Colab or on Binder
-  colab.research.google.com
   https://mybinder.org/
 
 #### Option 2: Running on your computer locally
